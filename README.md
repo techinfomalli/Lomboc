@@ -7,3 +7,4 @@ Steps:
 4) Add dependencyes to pom.xml.
 5) restart eclips.
 6) try to user lomboc anitations.
+7) 
